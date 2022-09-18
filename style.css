@@ -1,5 +1,5 @@
 .container{
-    width: 100vw;
+    width: 100%;
     min-height: 100vh;
     max-height: 4000px;
     background-color: aquamarine;
@@ -10,7 +10,6 @@
 body, html{
     margin: 0;
     padding: 0;
-    overflow-x: hidden;
 }
 
 .center{
