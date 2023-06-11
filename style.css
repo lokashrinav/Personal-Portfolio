@@ -137,6 +137,7 @@ body, html{
 
 .mid{
     display: flex;
+    color: black;
     justify-content: center;
     margin-bottom: 25px;
     margin-right: 10px;
